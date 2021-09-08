@@ -1,5 +1,5 @@
 ### Hi there 👋
- i'm fossil
+ my name is SeongWon Baek. 1997 03 25
 <!--
 **SungwonBaek/SungwonBaek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
